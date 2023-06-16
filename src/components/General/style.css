@@ -12,7 +12,7 @@
 
 .wrapper__box {
     width: 100%;
-    background-color: #ffe44d;
+    background-color: #4dff7a;
     display: flex;
     justify-content: center;
     /* box-shadow: 0px 1px 6px 1px rgba(34, 60, 80, 0.2); */
@@ -49,7 +49,7 @@ header {
 
 .wrapper__ban {
     width: 100%;
-    background-color: #ffe44d;
+    background-color: #4dffb2;
     display: flex;
     justify-content: flex-start;
     box-shadow: 0px 6px 4px -4px rgba(34, 60, 80, 0.2);
@@ -60,7 +60,7 @@ header {
     max-width: 350px;
     margin: 20px 15%;
     padding-bottom: 120px;
-    background-color: #ffe44d;
+    background-color: #4dff7a;
 }
 
 .header__catalog {
